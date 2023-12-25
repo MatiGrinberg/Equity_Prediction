@@ -10,13 +10,13 @@
 
 ### Graphs (for 3m horizon predictions of individual stocks that make up an equally-weighted portfolio)
 
-* The correlation between my portfolio and benchmark returns is yet positive, but lower than 1; therefore, its performance isn't tied to market movements.
-Correlation Df 3m
+The correlation between my portfolio and benchmark returns is yet positive, but lower than 1; therefore, its performance isn't (highly) tied to market movements.
 
+|        | Ind_B | Dif_Per |
+|--------|-------|---------|
+| Ind_P  | 0.61  | 0.88    |
+| Ind_B  | 1.00  | 0.17    |
 
-        Ind_B  Dif_Per
-Ind_P   0.61     0.88
-Ind_B   1.00     0.17
 
 These 2 graphs show I beat the benchmark (SPX) more than half of the time. I have negative returns almost a third of the time. I have an IR of 0.2 (vs SPX), an annualized return of 13%, and a maximum loss of 46% (in a 3-month period).
 ![image](https://github.com/MatiGrinberg/Equity_Prediction/assets/45952871/09dffb5c-1005-44ca-b1b6-ddd7fcb3709d)
