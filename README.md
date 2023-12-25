@@ -33,10 +33,11 @@ The two graphs that follow show the evolution of the portfolio as I test its per
 ![image](https://github.com/MatiGrinberg/Equity_Prediction/assets/45952871/1acfb3dc-1585-4cf1-8140-4ffab3945b65)
 
 ### (annualized) Information Ratios (IR vs SPX)
-"Only" refers to vanilla portfolios, e.g., picking stocks thinking 1 or 3m ahead and measuring their performance versus SPX in that same timeframe (used for the prediction). So, there's a coincidence in timeframe between prediction and turnover.
-"Any_Pred" means a portfolio made up of stocks picked by any of the 4 models (either by the model forecasting stocks 1/3/6/12m ahead), but the turnover and therefore its performance measurement could be every 1m or 3m. Remember, all stocks, no matter if they were picked by one model or the other, are equally weighted.
-"Target_3_Turn_1" is a portfolio made up of stocks picked via prediction 3m ahead, but with a monthly turnover.
+"Only" refers to vanilla portfolios, e.g., picking stocks thinking 1 or 3m ahead and measuring their performance versus SPX in that same timeframe (used for the prediction). So, there's a coincidence in timeframe between prediction and turnover. <br>
+"Any_Pred" means a portfolio made up of stocks picked by any of the 4 models (either by the model forecasting stocks 1/3/6/12m ahead), but the turnover and therefore its performance measurement could be every 1m or 3m. Remember, all stocks, no matter if they were picked by one model or the other, are equally weighted. <br>
+"Target_3_Turn_1" is a portfolio made up of stocks picked via prediction 3m ahead, but with a monthly turnover. <br>
 "Avg_Strategy" assumes that every month, I allocate 25% of my portfolio weight to each of the 4 possible strategies, which, in turn, make their own portfolios with their individual 1m returns.
+
 
 | Strategy            | IR vs SPX |
 |---------------------|-----------|
