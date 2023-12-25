@@ -12,6 +12,8 @@
 
 * The correlation between my portfolio and benchmark returns is yet positive, but lower than 1; therefore, its performance isn't tied to market movements.
 Correlation Df 3m
+
+
         Ind_B  Dif_Per
 Ind_P   0.61     0.88
 Ind_B   1.00     0.17
