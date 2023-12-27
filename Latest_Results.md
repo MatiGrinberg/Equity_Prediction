@@ -1,7 +1,9 @@
 # Results of all strategies tried
-
+These results are not definitive and are expected to be improved in the near future.
 
 ## IRs vs SPX
+
+The explanation of what each of these strategies means was already provided in the previous ReadMe file. Now, I've decided to display all results. You can observe that in all cases, I achieved a high IR versus SPX. All IRs in this document are annualized.
 
 | Strategy             | Value  |
 |----------------------|--------|
@@ -23,6 +25,8 @@
 
 ## IRs vs NDX
 
+In many cases, though not all, there's a decent (0.2) or even high (0.4) Information Ratio (IR) versus NDX, which has significantly outperformed the SPX in recent decades (the NDX's IR versus SPX is around 0.4). All IRs in this document are annualized.
+
 | Strategy             | Value  |
 |----------------------|--------|
 | Only_1_NDX           | -0.0   |
@@ -41,7 +45,9 @@
 | Targ_12_Turn_6_NDX   | -0.1   |
 | Avg_Strat_1m_NDX     | 0.3    |
 
-## Annualized_Return for all strategies
+## Annualized Return for all strategies
+
+Equity indices have returned roughly 10 to 14% annually, while some of my strategies achieved an annualized return of around 20%.
 
 | Strategy             | Value  |
 |----------------------|--------|
@@ -61,7 +67,9 @@
 | Targ_12_Turn_6       | 0.12   |
 | Avg_Strat_1m         | 0.19   |
 
-## Maximum_Loss for all strategies
+## Maximum Loss for all strategies
+
+Losses are measured within the timeframe/horizon of each strategy. For instance, 'Any_Pred_1' displays the maximum loss for a strategy that trades monthly, while 'Any_Pred_3' shows the same for a strategy that trades quarterly. The majority of these losses occurred by Sep-08 before the Lehman moment. However, when you examine losses for each individual strategy, they're not as high as the maximum and typically hover around a maximum of 20% when considering consecutive months. Within a single month, the losses would be much less. Essentially, I didn't observe any significant difference in the losses one might suffer compared to adopting a passive strategy of buying the SPX or NDX.
 
 | Strategy             | Value  |
 |----------------------|--------|
