@@ -3,7 +3,7 @@ These results are not definitive and are expected to be improved in the near fut
 
 ## IRs vs SPX
 
-The explanation of what each of these strategies means was already provided in the previous ReadMe file. Now, I've decided to display all results. You can observe that in all cases, I achieved a high IR versus SPX. All IRs in this document are annualized.
+The explanation of what each of these strategies mean was already provided in the previous ReadMe file. Now, I've decided to display all results. You can observe that in all cases, I achieved a high IR versus SPX. All IRs in this document are annualized.
 
 | Strategy             | Value  |
 |----------------------|--------|
