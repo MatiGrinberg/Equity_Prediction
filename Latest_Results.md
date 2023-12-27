@@ -88,3 +88,11 @@ Losses are measured within the timeframe/horizon of each strategy. For instance,
 | Targ_12_Turn_3       | -0.46  |
 | Targ_12_Turn_6       | -0.6   |
 | Avg_Strat_1m         | -0.32  |
+
+
+## The financial modeling excel file shows the evolution of capital for:
+  - the best of these strategies vs QQQ3 (NDX leveraged ETF)
+  - using or not a loan to increase capital
+  - with use of broker's leverage
+  - savings each month
+  - amount of money left for retirement
